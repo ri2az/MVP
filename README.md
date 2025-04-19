@@ -22,8 +22,8 @@ Une application Streamlit interactive qui affiche les statistiques des joueurs N
 1. Clone ce dépôt :
 
 ```bash
-git clone https://github.com/ton-profil/https://github.com/ri2az/nba_stats.git
-cd nba_stats
+git clone https://github.com/ton-profil/https://github.com/ri2az/MVP.git
+cd MVP
 ```
 
 ### 2️⃣ Installer les dépendances
