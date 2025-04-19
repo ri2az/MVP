@@ -22,8 +22,8 @@ Une application Streamlit interactive qui affiche les statistiques des joueurs N
 1. Clone ce dépôt :
 
 ```bash
-git clone https://github.com/ton-profil/https://github.com/ri2az/MVP.git
-cd mvp
+git clone https://github.com/ton-profil/https://github.com/ri2az/nba_stats.git
+cd nba_stats
 ```
 
 ### 2️⃣ Installer les dépendances
@@ -55,6 +55,7 @@ Le **MVP Score** combine plusieurs métriques pondérées :
 - **Plotly** 📊 (visualisation des graphiques)
 - **Pandas** 📄 (gestion des données)
 - **Scikit-learn** 🌐
+- **xlxml**
 
 ## 📜 Licence
 Ce projet est sous licence **MIT**. Vous pouvez le modifier et l'utiliser librement.
